@@ -1,6 +1,6 @@
 name: Netbye
 description: Blogging about stuffs
-meta_description: "Netbye'blog"
+meta_description: "NetbyeLee'blog"
 
 markdown: redcarpet
 highlighter: pygments
